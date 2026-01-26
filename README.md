@@ -1,4 +1,4 @@
-f2583391eafc22a6ec6c9299a8ad9fac857f8181# Buildkite Documentation [![Build status](https://badge.buildkite.com/b1b9e3ef9d893c087f5e5c0a2d04c258ba393bed2379273f63.svg?branch=main)](https://buildkite.com/buildkite/docs)
+brew install yarnf2583391eafc22a6ec6c9299a8ad9fac857f8181# Buildkite Documentation [![Build status](https://badge.buildkite.com/b1b9e3ef9d893c087f5e5c0a2d04c258ba393bed2379273f63.svg?branch=main)](https://buildkite.com/buildkite/docs)
 
 The source files for the [Buildkite Documentation](https://buildkite.com/docs), aka the Buildkite Docs, or just docs.
 
