@@ -1,4 +1,4 @@
-Copyright (c) 2015 Buildkite Pty Ltd
+Publish Copyright (c) 2015 Buildkite Pty Ltd
 
 MIT License
 
